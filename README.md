@@ -3,7 +3,7 @@ Sistema de gerenciamento de tarefas destinado a auxiliar os usuários na organiz
 
 ### Informações do teste
 - Empresa: [EclipseWorks](https://eclipseworks.com.br)
-- [Teste proposto pela empresa](https://meteor-ocelot-f0d.notion.site/NET-C-5281edbec2e4480d98552e5ca0242c5b)
+- Teste proposto pela empresa: [Teste Backend ASP.NET](https://meteor-ocelot-f0d.notion.site/NET-C-5281edbec2e4480d98552e5ca0242c5b)
 
 ### Informações sobre a arquitetura do software
 - Framework: .NET 8 (LTS)
