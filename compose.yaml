@@ -1,0 +1,6 @@
+﻿services:
+  gerenciadortarefas.api:
+    image: gerenciadortarefas.api
+    build:
+      context: .
+      dockerfile: GerenciadorTarefas.Api/Dockerfile
